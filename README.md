@@ -118,19 +118,6 @@ Movies live in `data/movies.js`. Each entry follows this shape:
 
 ---
 
-## 📸 Screenshots
-
-> _Add your own screenshots here!_
-
-| Home | Search | Detail |
-|------|--------|--------|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
-| Cast | Favorites | Profile |
-|------|-----------|---------|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
----
 
 ## 🛠️ Built With
 
