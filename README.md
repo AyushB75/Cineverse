@@ -130,4 +130,4 @@ Movies live in `data/movies.js`. Each entry follows this shape:
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/YOUR_USERNAME)
+MIT © [Ayush Bansal](https://github.com/AyushB75)
