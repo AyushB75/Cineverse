@@ -20,7 +20,7 @@
 | ✍️ **Reviews** | Write, edit, and view reviews per movie — survives logout |
 | 👤 **Auth System** | Sign up / login with local persistence, full form validation |
 | 🎬 **Splash Screen** | Animated logo with zoom-out transition |
-| 🌑 **Dark Theme** | Deep black UI with gold accent (`#C9A84C`) throughout |
+| 🌑 **Dark Theme** | Deep black UI with royal gold accent (`#C9A84C`) throughout |
 
 ---
 
