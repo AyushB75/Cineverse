@@ -7,6 +7,17 @@
 ![Expo](https://img.shields.io/badge/expo-compatible-000020?style=flat-square&logo=expo)
 
 ---
+## 📸 Screenshots
+
+| Login | Home | Search |
+|-------|------|--------|
+| ![Login](assets/screenshots/Login%20Screen.jpg) | ![Home](assets/screenshots/Home%20Screen.jpg) | ![Search](assets/screenshots/Search%20Screen.jpg) |
+
+| Details | Favourites | Cast Profile |
+|---------|------------|--------------|
+| ![Details](assets/screenshots/Details%20Screen.jpg) | ![Favourites](assets/screenshots/Favourites%20Screen.jpg) | ![Cast](assets/screenshots/Cast%20Profile%20Screen.jpg) |
+
+---
 
 ## ✨ Features
 
