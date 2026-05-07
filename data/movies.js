@@ -3,7 +3,7 @@ const movies = [
   {
     id: '1', title: 'Sholay', year: 1975, rating: 8.2, duration: '3h 24m',
     genre: ['Action', 'Adventure', 'Drama'], language: 'Hindi',
-    keywords: ['bollywood', 'hindi', 'indian', 'classic', 'dacoit'],
+    keywords: ['Bollywood', 'Hindi', 'Indian', 'Classic', 'Dacoit'],
     description: 'A retired police officer enlists two criminals to capture a ruthless dacoit terrorizing a village. The ultimate Indian blockbuster that defined an era of cinema.',
     poster: 'https://image.tmdb.org/t/p/original/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg',
     backdrop: 'https://image.tmdb.org/t/p/original/nu3Hd3K4ZXCHsPkanuJ2csY0bOC.jpg',
@@ -39,7 +39,7 @@ const movies = [
   {
     id: '3', title: 'Dangal', year: 2016, rating: 8.3, duration: '2h 41m',
     genre: ['Biography', 'Drama', 'Sport'], language: 'Hindi',
-    keywords: ['bollywood', 'hindi', 'indian', 'wrestling', 'sports', 'aamir khan'],
+    keywords: ['Bollywood', 'Hindi', 'Indian', 'Wrestling', 'Sports', 'Aamir Khan'],
     description: 'The true story of wrestler Mahavir Singh Phogat who trains his daughters Geeta and Babita to become world-class wrestlers against all social odds.',
     poster: 'https://image.tmdb.org/t/p/original/3n8888uKuaxPBBuDUqJhfhrWlgA.jpg',
     backdrop: 'https://image.tmdb.org/t/p/original/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg',
