@@ -23,7 +23,7 @@
 
 | Feature | Description |
 |--------|-------------|
-| 🏠 **Home Feed** | Curated movie sections with animated hero carousel |
+| 🏠 **Home Page** | Curated movie sections with animated hero carousel |
 | 🔍 **Smart Search** | Filter by language, sort by rating/year, search cast & directors |
 | 🎭 **Cast Profiles** | Tap any cast member to see their full filmography |
 | ❤️ **Favorites & Watchlist** | Persist your picks across sessions with AsyncStorage |
@@ -125,7 +125,10 @@ Movies live in `data/movies.js`. Each entry follows this shape:
 - **Tags navigation crash** — Genre/tag chips on Detail screen now correctly navigate through the nested Tab navigator to Search (`Tabs → Search`)
 - **Reviews lost on logout** — Reviews are now read directly from the `reviews` store and displayed regardless of login state; `isOwn` flag is set only for the current user
 - **Missing signup validation** — `AuthContext.signUp` now validates: username length, email format (regex), password min length (6), and duplicate email
-
+- **Infinite re-render on Favorites screen** — Fixed unstable dependency in `useEffect` causing continuous re-renders while updating favorites
+- **Broken image fallback handling** — Added default placeholder images when poster/API image URLs fail to load
+- **Duplicate review submissions** — Review submit button is now disabled during async requests to prevent duplicate entries
+- **Session persistence issue** — Authentication state now restores correctly after app restart using persisted local storage
 ---
 
 
