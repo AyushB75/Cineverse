@@ -1,6 +1,6 @@
 # 🎬 CINÉVERSE
 
-> A Cinematic movie discovery app built with React Native & Expo
+> A Cinematic movie discovery app built with React Native & Expo featuring smart search, cast profiles, favorites, watchlists, reviews, and local authentication.
 
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey?style=flat-square)
 ![Built With](https://img.shields.io/badge/built%20with-React%20Native-61DAFB?style=flat-square&logo=react)
